@@ -3,7 +3,9 @@ It's a batch that fill the disk very quickly
 
 
 Support 2 way of spamming:
+
 Bruteforce (create lots of big files in  a choosen directory)
+
 Sneaky [WIP] (add stuff to already exeisting files in a folder and it's subfolders)
 
 
