@@ -8,7 +8,11 @@ Sneaky [WIP] (add stuff to already exeisting files in a folder and it's subfolde
 
 
 -Can choose the number of threads
+
 -Multiple presets
+
 -support UAC prompt for location that require admin
+
 -Get info on the current spam
+
 -treads run hidden
